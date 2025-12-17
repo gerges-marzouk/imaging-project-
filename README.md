@@ -7,12 +7,12 @@ to classify brain MRI images into tumor and normal classes.
 ## Techniques Used
 - Histogram Equalization / Unsharp Masking
 - Sobel & Frequency Domain Filtering
-- CNN (ResNet / Custom CNN)
+- EfficientNetB5
 
 ## Dataset
 Kaggle Brain Tumor MRI Dataset
 
 ## Results
-- Accuracy: XX%
-- ROC-AUC: XX%
+- Accuracy: 0.97%
+- ROC-AUC: 0.96%
 
